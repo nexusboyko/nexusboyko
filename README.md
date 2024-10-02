@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><strong>I try to do a little bit of everything.</strong></p>
-<p><strong>Strong front-end development background with React/NextJS and Tailwind CSS.</strong></p>
+<p><strong>I try to do a little bit of everything. Right now, I'm busy studying distributed systems and data visualization at UW.</strong></p>
+<p><strong>Strong front-end development background with React/NextJS, Tailwind CSS, and many other popular tools/libraries.</strong></p>
 <p><strong>Back-end experience using NodeJS, MongoDB, SQL.</strong></p>
-<p><small>Currently trying out some Go and HTMX!</small></p>
 
 <br/>
 
